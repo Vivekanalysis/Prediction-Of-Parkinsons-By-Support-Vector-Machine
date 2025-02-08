@@ -1,0 +1,1 @@
+# Prediction-Of-Parkinsons-By-Support-Vector-Machine
